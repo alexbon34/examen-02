@@ -1,0 +1,11 @@
+/* GENERAL STYLES */
+body, html {
+    height: 100%;
+}
+body {
+    background: #212121;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}

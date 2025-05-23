@@ -1,0 +1,5 @@
+/* Hearts section */
+#health {
+    display: flex;
+    justify-content: center;
+}
